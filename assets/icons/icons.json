@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/aromata-zois-kifisia-icon.svg"
+ },
+ "source_md5": "90210ebde639252491755046e354e9ee",
+ "version": "764eb0b1",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "cd4dc4378e4cd0c092c34fa47abac33c"
+ ],
+ "made": "2026-11-18"
+}
